@@ -1,10 +1,3 @@
-- [ ] Título del proyecto
-- [ ] Tu nombre
-- [ ] Descripción del dataset (qué contiene, cuántos países, fuente)
-- [ ] Cómo ejecutar el notebook (instrucciones paso a paso)
-- [ ] Al menos 3 hallazgos o conclusiones del análisis
-- [ ] Tecnologías usadas (Python, Pandas, Jupyter, Git)
-
 # Taller Integrador
 
 Nombre: Jhonatan Arturo Elnathan Carreño Prieto
