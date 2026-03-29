@@ -5,11 +5,10 @@ Nombre: Jhonatan Arturo Elnathan Carreño Prieto
 # Descripción
 
 En este archivo se encuentra el resultado de la actividad "Taller Integrador", que contiene
-* Tres archivos: README.md = La introduccion del trabajo
-                 salud_mundial.csv = Archivo .csv con la informacion de 158 paises donde aparece informacion como (Nombre del pais, region, nivel_ingresos, esperanza_vida,
-                 gasto_salud_usd, mortalidad_infantil, medicos_por_1000, poblacion_urbana_pct, obesidad_pct, diabetes_pct, tabaquismo_pct, camas_hospital_por_1000 y
-                 vacunacion_pct)
-                 taller_modulo1.ipynb = Archivo que contiene el trabajo realizado y la ejecucion misma del trabajo
+* README.md = La introduccion del trabajo
+* salud_mundial.csv = Archivo .csv con la informacion de 158 paises donde aparece informacion como (Nombre del pais, region, nivel_ingresos, esperanza_vida,
+gasto_salud_usd, mortalidad_infantil, medicos_por_1000, poblacion_urbana_pct, obesidad_pct, diabetes_pct, tabaquismo_pct, camas_hospital_por_1000 y vacunacion_pct)
+* taller_modulo1.ipynb = Archivo que contiene el trabajo realizado y la ejecucion misma del trabajo
 
 # Ejecución del Notebook
 
